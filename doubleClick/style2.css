@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  padding: 16px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: grey;
+  border: black;
+  color: aliceblue;
+}
+button:hover {
+  transform: scale(1.2);
+  background-color: palevioletred;
+  border: solid black;
+  color: BLACK;
+}
